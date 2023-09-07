@@ -5,7 +5,7 @@ Bir IP  üzerinden bilgiler almanızı sağlayan ve diğer birçok toolumda da k
 ## İndirme 
 
 ```bash
-git clone 'https://github.com/morbius-os/m-ip-to-location
+git clone https://github.com/morbius-os/m-ip-to-location
 
 cd m-ip-to-location
 
