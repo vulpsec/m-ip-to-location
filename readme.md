@@ -9,6 +9,8 @@ git clone https://github.com/morbius-os/m-ip-to-location
 
 cd m-ip-to-location
 
+cd m-ip-to-location
+
 python3 m-location-v2.py 
 ```
 
